@@ -66,7 +66,7 @@
 ## Books
 1. ### Beginner
 * Javascript
-	* YDKJS - Kyle Simpson
+	* [YDKJS(Up and going)](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) - Kyle Simpson
 
 
 
