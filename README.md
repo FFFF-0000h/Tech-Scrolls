@@ -75,9 +75,9 @@
 
 - **abstraction**: a technique for arranging complexity of computer systems.
 
-- **active learning**: A training approach in which the algorithm chooses some of the data it learns from.
+- **active learning**: a training approach in which the algorithm chooses some of the data it learns from.
 
-- **adaptive design**: The way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
+- **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
 
 - **agile**: the ability to create and respond to change.
 
@@ -89,7 +89,7 @@
 
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
 
-- **Application Security**: Application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
+- **Application Security**: application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
 
 - **argument**: a value that is passed to a function (as input) when it is called.
 
@@ -99,9 +99,9 @@
 
 - **artificial intelligence**: a non-human program or model that can solve sophisticated tasks.
 
-- **attribute**: Information about elements of a component in your website design/build.
+- **attribute**: information about elements of a component in your website design/build.
 
-- **augmented reality**: A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
+- **augmented reality**: a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
 
 - **authentication**: Authentication is the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
 
