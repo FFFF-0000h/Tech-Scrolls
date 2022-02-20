@@ -1,11 +1,11 @@
 ## Table of Contents
-### Concepts
-### People
-### [Books](#-Books) 
-### Github 
-### LinkedIn
-### Twitter 
-### Cybersecurity
+* Concepts
+* People
+* [Books](#-Books) 
+* Github 
+* LinkedIn
+* Twitter 
+* Cybersecurity
 <hr>
 
  [A](#A)
