@@ -1,5 +1,5 @@
 ## Table of Contents
-* Concepts
+* Concepts 
 * People
 * [Books](#-Books) 
 * Github 
