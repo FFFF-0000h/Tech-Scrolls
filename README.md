@@ -65,7 +65,8 @@
 
 ## Books
 1. ### Beginner
-- Javascript
+* Javascript
+	* YDKJS - Kyle Simpson
 
 
 
