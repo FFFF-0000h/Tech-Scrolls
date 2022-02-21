@@ -105,25 +105,25 @@
 
 - **augmented reality**: a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
 
-- **authentication**: Authentication is the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
+- **authentication**: the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
 
-- **authorization**: Authorization is the function of specifying access rights/privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, "to authorize" is to define an access policy.
+- **authorization**: the function of specifying access rights/privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, "to authorize" is to define an access policy.
 
 ## B
 
-- **back end**: All of the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, and plugins.
+- **back end**: the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, scripts and plugins.
 
 - **binary operator**: an operator that takes two arguments.
 
-- **boilerplate**: A boilerplate is a collection of code snippets and assets that can be reused to boost development. 
+- **boilerplate**: boilerplate is a collection of code snippets and assets that can be reused to boost development. 
 
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 
-- **bootstrap**: Bootstrap is a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
+- **bootstrap**: a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
 
 - **branch**: a parallel world where you can create commits without introducing bugs into production code.
 
-- **browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
+- **browser**: the program you use to access the Web. E.g Google's Chrome, Mozilla's Firefox, Apple's Safari, Microsoft's Edge.
 
 - **bug**: an error in the source code that causes a program to produce unexpected results.
 
@@ -133,11 +133,11 @@
 
 ## C
 
-- **cache**: The storage of certain elements to help with faster load times from repeat website visitors. Stores data that needs to be readily accessed by programs and applications.
+- **cache**: the storage of certain elements to help with faster load times from repeat website visitors. Stores data that needs to be readily accessed by programs and applications.
 
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 
-- **CDN (Content Delivery Network)**: A content delivery network (CDN) is a geographically distributed network of servers whose goal is to provide high availability and performance of the service served, to users.
+- **CDN (Content Delivery Network)**: a content delivery network (CDN) is a geographically distributed network of servers whose goal is to provide high availability and performance of the service served, to users.
 
 - **class**: a defined structure to create an object in an object-oriented programming language.
 
@@ -147,13 +147,13 @@
 
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 
-- **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
+- **Cloud computing**: the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
 
-- **CMS (Content Management System)**: The program that you use to create and maintain your website’s content.
+- **CMS (Content Management System)**: the program that you use to create and maintain your website’s content.
 
 - **cohesion**: a measure of how well the lines of source code within a module work together.
 
-- **comments**: In computer programming, a comment is a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters.
+- **comments**: a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. In Javascript comments are written using `/` for in-line comments and `/* */` for multi-line comments. 
 
 - **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 
