@@ -213,6 +213,8 @@
 
 - **DOM (Document Object Model)**: The Document Object Model (DOM) is a programming API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
 
+- **dot notation**: one of the ways properties of an object can be accessed (i.e.,  obj.a). See [bracket notation](bracket)
+
 - **DRY (Don't Repeat Yourself)**: Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
