@@ -95,8 +95,7 @@
 
 - **argument**: a value that is passed to a function (as input) when it is called.
 
-- **array**: (in computer science) a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_.
- Array is an `object` _see [object](#o)_ that holds values (of any type) not particularly in named properties/keys, but rather in numerically indexed positions. 
+- **array**: (in computer science) a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_. <br/> Array is an `object` _see [object](#o)_ that holds values (of any type) not particularly in named properties/keys, but rather in numerically indexed positions. 
 
 - **artificial general intelligence**: a non-human mechanism that demonstrates a broad range of problem solving, creativity, and adaptability. For example, a program demonstrating artificial general intelligence could translate text, compose symphonies, and excel at games that have not yet been invented.
 
