@@ -391,7 +391,9 @@
 
 ## O
 
-- **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
+- **object**: a type that refers to a compound value where you can set properties (named locations) that each hold their own values of any type. 
+
+- **Object-Oriented Programming (OOP)**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
 
 - **objective**: a metric that your algorithm is trying to optimize.
 
