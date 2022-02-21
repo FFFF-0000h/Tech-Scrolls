@@ -95,7 +95,7 @@
 
 - **argument**: a value that is passed to a function (as input) when it is called.
 
-- **array**: a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_
+- **array**: a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_. Array is an `object` _see [object](#o)_ that holds values (of any type) not particularly in named properties/keys, but rather in numerically indexed positions. 
 
 - **artificial general intelligence**: a non-human mechanism that demonstrates a broad range of problem solving, creativity, and adaptability. For example, a program demonstrating artificial general intelligence could translate text, compose symphonies, and excel at games that have not yet been invented.
 
@@ -121,7 +121,7 @@
 
 - **bootstrap**: a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
 
-- **bracket notation**: one of the ways used to access object properties, as in `obj[a]` and `obj["a"]` — such properties are often referred to as  _keys_  when accessed via bracket notation. The  `[ ]` notation requires either a variable (explained next) or a  string  literal  (which needs to be wrapped in  `" .. "`  or  `' .. '`). _see [dot notation](#d)
+- **bracket notation**: one of the ways used to access object properties, as in `obj[a]` and `obj["a"]` — such properties are often referred to as  _keys_  when accessed via bracket notation. The  `[ ]` notation requires either a variable (explained next) or a  string  literal  (which needs to be wrapped in  `" .. "`  or  `' .. '`). _see [dot notation](#d)_
 
 - **branch**: a parallel world where you can create commits without introducing bugs into production code.
 
