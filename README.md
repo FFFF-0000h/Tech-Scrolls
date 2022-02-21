@@ -495,6 +495,8 @@
 
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 
+- **scope**: a collection of variables(usually in a function) as well as the rules for how those variables are accessed by name. Only code inside that function can access that function’s  scoped  variables.
+
 - **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
 
 - **server**: a computer that provides data to other computers.
