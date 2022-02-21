@@ -1,11 +1,13 @@
-## Table of Contents
-* Concepts 
-* People
-* [Books](#books)
-* Github 
-* LinkedIn
-* Twitter 
-* Cybersecurity
+<h2 align = "center">Table of Contents</h2>
+<ul>
+<li>Concepts</li>
+<li>People</li>
+<li>[Books](#books)</li>
+<li>Github</li>
+<li>LinkedIn</li>
+<li>Twitter</li>
+<li>Cybersecurity</li>
+</ul>
 <hr>
 
  [A](#A)
