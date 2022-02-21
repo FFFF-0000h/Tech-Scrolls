@@ -1,7 +1,7 @@
 ## Table of Contents
 * Concepts 
 * People
-* [Books](#-books) 
+* [Books](#-books)
 * Github 
 * LinkedIn
 * Twitter 
