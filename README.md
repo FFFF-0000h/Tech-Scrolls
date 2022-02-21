@@ -2,7 +2,7 @@
 <ul>
 <li>Concepts</li>
 <li>People</li>
-<li>[Books](#books)</li>
+<li><a href = "#books">Books</a></li>
 <li>Github</li>
 <li>LinkedIn</li>
 <li>Twitter</li>
