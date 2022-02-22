@@ -11,8 +11,9 @@ _NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
 </ul>
 <hr>
 
- [A](#A)
-
+ <div>
+	<a href = "#a">A</a>
+ </div>
  [B](#B)
 
  [C](#C)
