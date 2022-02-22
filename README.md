@@ -80,7 +80,6 @@
 - **abstraction**: one of the four cornerstones of Computer Science. It involves filtering out – essentially, ignoring - the characteristics that we don't need in order to concentrate on those that we do. _See also [decomposition](#d), [algorithm](#a), [pattern recognition](#p)_.
 
 - **Accessibility**: the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
-
 You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances. 
 
 - **active learning**: a training approach in which the algorithm chooses some of the data it learns from.
