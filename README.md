@@ -75,23 +75,29 @@
 
 ## A
 
-- **abstraction**: a technique for arranging complexity of computer systems.
+- **abstraction**: one of the four cornerstones of Computer Science. It involves filtering out – essentially, ignoring - the characteristics that we don't need in order to concentrate on those that we do. _See also [decomposition](#d), [algorithm](#a), [pattern recognition](#p)_.
+
+- **Accessibility**: the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+
+You might also think of accessibility as treating everyone the same, and giving them equal opportunities, no matter what their ability or circumstances. 
 
 - **active learning**: a training approach in which the algorithm chooses some of the data it learns from.
 
-- **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
+- **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. _See also [responsive design](#r).
 
 - **agile**: the ability to create and respond to change.
 
 - **Agile software development**: software development methodologies that focus on iterative development.
 
-- **algorithm**: the basic technique used to get the job done.
+- **algorithm**: one of the four cornerstones of Computer Science. An algorithm is a plan, a set of step-by-step instructions to solve a problem. Algorithms are often used as a starting point for creating a computer program, and they are sometimes written as a [flowchart](#f) or in [pseudocode](#p). _See also [pattern recognition](#p), [decomposition](#d), [abstraction](#a)_ 
 
 - **application (software)**: a program or group of programs designed for end users.
 
-- **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
+- **API (application programming interface)**: what helps different components of software work together so that they all seem to operate as a single software. Such interfaces are very common and help coordinate numerous "moving parts" to make a program or app easy to use.
 
 - **Application Security**: application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
+
+- **ARIA (Accessible Rich Internet Application)**: it refers to the idea that web apps are used by a range of people, with differing needs for assistive technology and layout. _See also [Accessibility](#a)_
 
 - **argument**: a value that is passed to a function (as input) when it is called.
 
@@ -111,7 +117,7 @@
 
 ## B
 
-- **back end**: the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, scripts and plugins.
+- **back end**: the behind-the-scenes(web servers, databases, applications) operations that it takes to keep the front-end(_see [frontend](#f)_) of a website running, such as the coding, style, scripts and plugins.
 
 - **binary operator**: an operator that takes two arguments.
 
@@ -121,7 +127,7 @@
 
 - **bootstrap**: a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
 
-- **bracket notation**: one of the ways used to access object properties, as in `obj[a]` and `obj["a"]` — such properties are often referred to as  _keys_  when accessed via bracket notation. The  `[ ]` notation requires either a variable (explained next) or a  string  literal  (which needs to be wrapped in  `" .. "`  or  `' .. '`). _see [dot notation](#d)_
+- **bracket notation**: one of the ways used to access object properties, as in `obj[a]` and `obj["a"]` — such properties are often referred to as  _keys_  when accessed via bracket notation. The  `[ ]` notation requires either a variable (explained next) or a  string  literal  (which needs to be wrapped in  `" .. "`  or  `' .. '`). _See [dot notation](#d)_
 
 - **branch**: a parallel world where you can create commits without introducing bugs into production code.
 
@@ -161,7 +167,7 @@
 
 - **compiler**: a program that translates computer code written in one programming language into another language.
 
-- **components**: independent and reusable bits of code that work in isolation and return HTML via a render function. _see [web components](#W)_
+- **components**: independent and reusable bits of code that work in isolation and return HTML via a render function. _See [web components](#W)_
 
 - **constant**: A constant is a value that will never change during the running time of the program.
 
@@ -193,9 +199,11 @@
 
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 
+- **data warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
+
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 
-- **data warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
+- **decomposition**: one of the four cornerstones of Computer Science. It involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand. The smaller parts can then be examined and solved, or designed individually, as they are simpler to work with. _See also [abstraction](#a), [algorithm](#a), [pattern recognition](#p).
 
 - **deep learning**: a broader family of machine learning methods based on artificial neural networks with representation learning. Deep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.
 
@@ -215,7 +223,7 @@
 
 - **DOM (Document Object Model)**: The Document Object Model (DOM) is a programming API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
 
-- **dot notation**: one of the ways properties of an object can be accessed (i.e.,  obj.a). _see [bracket notation](#b)_
+- **dot notation**: one of the ways properties of an object can be accessed (i.e.,  obj.a). _See [bracket notation](#b)_
 
 - **DRY (Don't Repeat Yourself)**: Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
@@ -405,7 +413,9 @@
 
 - **operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
 
-- **operating system**: An operating system, or OS, is a type of software that enables the user to run applications on a device.
+- **operating system**: an operating system, or OS, is a type of software that enables the user to run applications on a device.
+
+- **open source**: Open source describes code that is available publicly and that anyone can use. People can take it and modify it for their purposes.
 
 - **open source software**: Open source software (OSS) is software that is distributed with its source code, making it available for use, modification, and distribution with its original rights. OSS typically includes a license that allows programmers to modify the software to best fit their needs and control how the software can be distributed.
 
@@ -431,7 +441,7 @@
 
 - **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 
-- **plugin**: _see [extension](#e)_
+- **plugin**: _See [extension](#e)_
 
 - **PNG (Portable Network Graphics)**: an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
 
@@ -473,10 +483,6 @@
 
 - **redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 
-- **ruby**: Ruby is an interpreted, high-level, general-purpose programming language. Ruby is dynamically typed and uses garbage collection and just-in-time compilation.
-
-- **ruby on rails**: Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
-
 - **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 
 - **regression testing**: Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
@@ -485,25 +491,33 @@
 
 - **repository**: a central location in which code is stored and managed.
 
+- **resolution**: Essentially how large an image or graphic can be rendered on a display. Oftentimes developers talk about the resolution of photos as photos at a low resolution won’t display as well if they need to be sized for the full width of a desktop screen. Resolutions are measured in pixels(p).
+
+- **Responsive design**: usually known as "Respnsive web design". A responsive design is one that adapts to the user's device and, in an ideal world, the user's context so that it displays the content required in the most appropriate and accessible manner, regardless of what kind of web-connected device is being used to view it. In practice this means a web page will re-paginate itself as the screen size reduces or increases, displaying in multiple columns when viewed on a desktop computer, but only a single column when viewed on a smartphone. _See also [adaptive design](#a)_.
+
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
 
 - **REST (Representational State Transfer)**: Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the internet. RESTful Web services allow the requesting systems to access and manipulate textual representations of Web resources by using a uniform and predefined set of stateless operations, in the form of an HTTP method, or verb (GET, POST, PUT, DELETE etc.). By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components.
 
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
-- **resolution**: Essentially how large an image or graphic can be rendered on a display. Oftentimes developers talk about the resolution of photos as photos at a low resolution won’t display as well if they need to be sized for the full width of a desktop screen. Resolutions are measured in pixels (e.g., the resolution of a MacBook Air screen is 1440 x 900 pixels).
+- **ruby**: Ruby is an interpreted, high-level, general-purpose programming language. Ruby is dynamically typed and uses garbage collection and just-in-time compilation.
+
+- **ruby on rails**: Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
 
 ## S
 
 - **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
 
-- **SAML (Security Assertion Markup Language)**: Security Assertion Markup Language is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. What that jargon means is that you can use one set of credentials to log into many different websites. SAML is an XML-based markup language for security assertions.
-
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
+
+- **SAML (Security Assertion Markup Language)**: Security Assertion Markup Language is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. What that jargon means is that you can use one set of credentials to log into many different websites. SAML is an XML-based markup language for security assertions.
 
 - **scope**: a collection of variables(usually in a function) as well as the rules for how those variables are accessed by name. Only code inside that function can access that function’s  scoped  variables.
 
 - **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
+
+- **Semantic markup**: is an approach to coding [HTML](#h) where the markup tags used to describe content also provide relevant metadata about the content itself. For example, a piece of information that's relevant to the main content of a page, but not directly the subject of the page, might be marked up as being an `<aside>`.
 
 - **server**: a computer that provides data to other computers.
 
@@ -519,7 +533,7 @@
 
 - **socket**: one endpoint of a two-way communication link between two programs running on the network
 
-- **Software architecture**:Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
+- **Software architecture**: refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 
