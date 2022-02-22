@@ -403,7 +403,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## O
 
-- **object**: a type that refers to a compound value where you can set properties (named locations) that each hold their own values of any type. 
+- **object**: a type that refers to a compound value where you can set properties (named locations) that each hold their own values of any type. _See [dot notation](#d) and [bracket notation](#b)_.
 
 - **Object-Oriented Programming (OOP)**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
 
