@@ -1,7 +1,7 @@
 _NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
 <h2 align = "center">Table of Contents</h2>
 <ul>
-<li>Concepts</li>
+<li>Concepts</li> <!-- Concepts about programming(functions, recursions, scopes, e.t.c) , tech generally, product management, UI/UX, data science, blockchain development, machine learning. concepts really. e.t.c. Note: Create a section accordingly using appropriate headers where necessary and paragraph tags and list tags where necessary. Explanations should be detailed enough if you atttempt to do so. -->
 <li>People</li>
 <li><a href = "#books">Books</a></li>
 <li>Github</li>
