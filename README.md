@@ -1,5 +1,5 @@
-_N.b
-	- UNLESS STATED, ALL `codes` are written in JavaScript_
+_NOTE:
+	* UNLESS STATED, ALL `codes` are written in JavaScript_
 <h2 align = "center">Table of Contents</h2>
 <ul>
 <li>Concepts</li>
