@@ -435,7 +435,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 
-- **parse**: The action of transforming data in a more workable way. 
+- **parse**: The action of transforming data in a more workable way.
+
+- **pattern recognition**: one of the four cornerstones of Computer Science. It involves finding the similarities or patterns among small, decomposed problems that can help us solve more complex problems more efficiently. _See [abstraction](#a), [algorithm](#a), [decomposition](#d)_.
 
 - **performance testing**: Performance testing is the process of determining the speed, responsiveness and stability of a computer, network, software program or device under a workload. Performance testing can involve quantitative tests done in a lab, or occur in the production environment in limited scenarios.
 
