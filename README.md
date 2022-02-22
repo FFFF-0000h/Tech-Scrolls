@@ -84,7 +84,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **active learning**: a training approach in which the algorithm chooses some of the data it learns from.
 
-- **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. _See also [responsive design](#r).
+- **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. _See also [responsive design](#r)_.
 
 - **agile**: the ability to create and respond to change.
 
