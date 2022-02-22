@@ -118,7 +118,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## B
 
-- **back end**: the behind-the-scenes(web servers, databases, applications) operations that it takes to keep the front-end(_see [frontend](#f)_) of a website running, such as the coding, style, scripts and plugins.
+- **back end**: the behind-the-scenes(web servers, databases, applications) operations that it takes to keep the [frontend](#f) of a website running, such as the coding, style, scripts and plugins.
 
 - **binary operator**: an operator that takes two arguments.
 
