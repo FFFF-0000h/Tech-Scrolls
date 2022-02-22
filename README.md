@@ -11,11 +11,33 @@ _NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
 </ul>
 <hr>
 
- <div align = "center">
+ <div align = "justify">
 	<a href = "#a">A</a>
 	<a href = "#b">B</a>
 	<a href = "#c">C</a>
 	<a href = "#d">D</a>
+	<a href = "#e">E</a>
+	<a href = "#f">F</a>
+	<a href = "#g">G</a>
+	<a href = "#h">H</a>
+	<a href = "#i">I</a>
+	<a href = "#j">J</a>
+	<a href = "#k">K</a>
+	<a href = "#l">L</a>
+	<a href = "#m">M</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
+	<a href = "#a">A</a>
  </div>
  [B](#B)
 
