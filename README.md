@@ -25,20 +25,23 @@ _NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
 	<a href = "#k">K</a>
 	<a href = "#l">L</a>
 	<a href = "#m">M</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
-	<a href = "#a">A</a>
+	<a href = "#n">N</a>
+	<a href = "#o">O</a>
+	<a href = "#p">P</a>
+	<a href = "#q">Q</a>
+	<a href = "#r">R</a>
+	<a href = "#s">S</a>
+	<a href = "#t">T</a>
+	<a href = "#u">U</a>
+	<a href = "#v">V</a>
+	<a href = "#w">W</a>
+	<a href = "#x">X</a>
+	<a href = "#y">Y</a>
+	<a href = "#z">Z</a>
  </div>
+
+ [A](#A)
+
  [B](#B)
 
  [C](#C)
