@@ -1,6 +1,6 @@
-_NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
+_⚔️NOTE⚔️: UNLESS STATED, ALL `codes` are written in JavaScript_
 
-`If you desire to make any amendments to the contents of the scrolls 📜. You must read the [ElderScrolls](#e)`
+`If you desire to make any amendments to the contents of the scrolls📜✍🏾. You must read the [ElderScrolls](#e)`
 <h2 align = "center">📜Table of Contents📜</h2>
 <ul>
 <li>Concepts</li> <!-- Concepts about programming(objects, arrays, functions, recursions, scopes, e.t.c) , tech generally, product management, UI/UX, data science, blockchain development, machine learning. concepts really. e.t.c. Note: Create a section accordingly using appropriate headers where necessary and paragraph tags and list tags where necessary. Explanations(with provision of code where necessary) should be detailed(include comments where necessary) enough if you atttempt to do so. -->
