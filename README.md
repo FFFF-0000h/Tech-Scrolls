@@ -1,7 +1,7 @@
 _NOTE: UNLESS STATED, ALL `codes` are written in JavaScript_
 
 `If you desire to make any amendments to the contents of the scrolls 📜. You must read the [ElderScrolls](#e)`
-<h2 align = "center">📜 Table of Contents 📜 </h2>
+<h2 align = "center">📜Table of Contents📜 </h2>
 <ul>
 <li>Concepts</li> <!-- Concepts about programming(objects, arrays, functions, recursions, scopes, e.t.c) , tech generally, product management, UI/UX, data science, blockchain development, machine learning. concepts really. e.t.c. Note: Create a section accordingly using appropriate headers where necessary and paragraph tags and list tags where necessary. Explanations(with provision of code where necessary) should be detailed(include comments where necessary) enough if you atttempt to do so. -->
 <li>People</li> <!-- People in tech, me to you to the next tech person you know making a mark in the tech world. Together with information(about and field) pointing(links, socials) to this person's work(s)(programs created, projects done e.t.c) -->
