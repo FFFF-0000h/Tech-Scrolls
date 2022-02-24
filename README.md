@@ -124,7 +124,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 - **adaptive design**: the way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. _See also [responsive design](#r)_.
 
 - **agile**: the ability to create and respond to change.
-
+ 
 - **Agile software development**: software development methodologies that focus on iterative development.
 
 - **algorithm**: one of the four cornerstones of Computer Science. An algorithm is a plan, a set of step-by-step instructions to solve a problem. Algorithms are often used as a starting point for creating a computer program, and they are sometimes written as a [flowchart](#f) or in [pseudocode](#p). _See also [pattern recognition](#p), [decomposition](#d), [abstraction](#a)_ 
@@ -211,6 +211,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 
+- **content curation**: the process social media sites use to gather and present content (articles, links, videos, images, etc.) that are relevant to a specific topic or a user’s area of interest. Content can be selected manually by a person designated as a curator, or it can be gathered through automated programs that track things like upvoting, likes, hashtags, or analysis of a user’s previous online activity. 
+
 - **control flow**: the order in which individual statements, instructions, or function calls of an imperative program are executed.
 
 - **cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
@@ -275,13 +277,16 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **encryption**: the process of converting information or data into a code, especially to prevent unauthorized access.
 
-- **enum**: a special data type that enables for a variable to be a set of predefined constants.
+- **engagement**: the term used for likes, shares, comments, and other interactions with a person's social media presence. _See [impression](#i)_. 
 
-- **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **enum**: a special data type that enables for a variable to be a set of predefined constants.
 
 - **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system, and can be accessed inside the program.
 
 - **ERP (Enterprise Resource Planning)**: Refers to software and systems used to plan and manage all the core supply chain, manufacturing, services, financial and other processes of an organization.
+ 
+
+- **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
 
 - **event**: an action or occurrence detected by a program.
 
@@ -343,6 +348,10 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **immutable object**: an object which cannot change after creation.
 
+- **impression(pl. impressions)**: when an online ad, article, video, post, image, or other piece of content has been “fetched” (or requested) from it’s source. Whenever social media content shows up in your web browser, it’s been fetched from its web server, and you’ve just helped make an impression. _See [engagement](#e)_. 
+
+- **influencers**: individuals with a presence on social media who use their platform to affect group opinions and behavior.
+
 - **inheritance**: the tendency of one class to derive properties and characteristics from other classes.
 
 - **integer (int)**: a data type that represents some range of mathematical integers.
@@ -403,6 +412,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 
+- **mention(pl. mentions)**: a way of referring to a person or account on social media platforms (@yourTwitterhandle on Twitter or +YourName on Google+). Mentions are another metric companies can use to measure their social media footprint.
+
 - **Merge Sort**: a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. 
 
 - **meta tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
@@ -411,9 +422,11 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
 
-- **middleware**: Middleware is software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
+- **microblog(pl. microblogs)**: a subset of traditional blogs where instead of longform content, short messages consisting of a few sentences, an image, a video, or a link are posted and shared. [Twitter](#t), [Google+](#g), [Tumblr](#t), and [Facebook](#f) are all considered microblogging platforms. 
 
-- **MIME**: Multipurpose Internet Mail Extensions is an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
+- **middleware**: software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
+
+- **MIME(Multipurpose Internet Mail Extensions)**: an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 
 - **mutable object**: an object which can change after creation.
 
@@ -456,6 +469,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 - **open source**: Open source describes code that is available publicly and that anyone can use. People can take it and modify it for their purposes.
 
 - **open source software**: Open source software (OSS) is software that is distributed with its source code, making it available for use, modification, and distribution with its original rights. OSS typically includes a license that allows programmers to modify the software to best fit their needs and control how the software can be distributed.
+
+- **organic**: describes social media content that ranks highly because individual users have liked, reposted, or viewed it—not because companies have paid to promote the content. Articles, memes, and videos that go viral through online community sharing (as opposed to paid advertising) are considered organic.
 
 - **OOTB**: “Out of the Box.” Also known as “Off the Shelf.” These are the ready-made, plug-and-play options for features and functions that you can download and install without the need to customize or configure.
 
@@ -520,6 +535,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## R
 
 - **RAML (RESTful API Modeling Language)**: RESTful API Modeling Language is a YAML-based language for describing RESTful APIs. It provides all the information necessary to describe RESTful or practically RESTful APIs. RAML lets you see what your API looks like as you design it, using easy to read plain text. RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
+
+- **reach**: a measure of your potential social media audience size—it’s the number of people who have access to your content, though reach doesn’t measure whether or not the content was actually viewed. 
 
 - **redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 
@@ -632,6 +649,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## U
 
 - **UAT (User Acceptance Testing)**: User Acceptance Testing (UAT) is one of the last stages of the software development life cycle. It is performed after the software has been thoroughly tested. It is sometimes known as End User Testing. UAT is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
+
+- **UGC(User Generated Content)**: the social media content (posts, photos, videos) created by users about a brand or product and not by companies or organizations themselves. When a local restaurant retweets a Twitter user’s positive shout out, or Coca-Cola reposts a picture of an Instagram user drinking a Coke, that’s UGC.
 
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
 
