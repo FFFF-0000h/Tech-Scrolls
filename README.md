@@ -318,6 +318,10 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **full-stack**: Full-stack developers work across all three layers: the frontend, the backend, and the database layer. Because of the sheer depth of their knowledge across the entire tech stack, this kind of developer tends to have years of industry experience and gets paid well for it.
 
+- **Fungible**: a word used to describe "interchangeable". 
+
+For example, dollars are interchangeable. If you have one dollar, and you traded it with another dollar. It wouldn't make a difference. You'd still have one dollar 💵 https://t.co/waJ5Y4OFik
+
 ## G
 
 - **generator**: a function that can be used to control the iteration behaviour of a loop.
