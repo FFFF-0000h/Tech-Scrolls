@@ -452,6 +452,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **noise**: anything that obscures the signal in a dataset.
 
+- **Non-fungible**: (In Blockchain) means not interchangeable. If you had 10 naira and you traded it for dollar, you wouldn't have the "same" 10 naira which is unique. _See also [fungible](#f)_
+
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
