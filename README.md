@@ -611,13 +611,13 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **socket**: one endpoint of a two-way communication link between two programs running on the network
 
-- **Software architecture**: refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
+- **software architecture**: refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
-- **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
+- **software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 
-- **Software integration**: Software integration is the process of bringing together various types of software sub-systems so that they create a unified single system. Software integration can be required for a number of reasons, such as: Migrating from a legacy system to a new database system, including cloud-based data storage.
+- **software integration**: Software integration is the process of bringing together various types of software sub-systems so that they create a unified single system. Software integration can be required for a number of reasons, such as: Migrating from a legacy system to a new database system, including cloud-based data storage.
 
-- **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
+- **source code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 
 - **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
 
@@ -698,6 +698,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 - **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W
+
+- **wallet(pl. wallets)**: (In blockchain) Wallets (crypto-wallets) are essentially applications that manage your private and public keys. These keys are used to send and receive crypto-currency and NFTs. _See also [crypto-currency](#c), [NFT](#n)_.
 
 - **web browser**: A web browser, or simply 'browser', is an application used to access and view websites. Common web browsers include Microsoft Edge, Internet Explorer, Google Chrome, Mozilla Firefox, and Apple Safari.
 
