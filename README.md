@@ -299,8 +299,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **ERP (Enterprise Resource Planning)**: Refers to software and systems used to plan and manage all the core supply chain, manufacturing, services, financial and other processes of an organization.
  
+- **ETH 2.0**: (In blockchain) "ETH 2.0" a term used to refer to Ethereum's future "Serenity" patch that will transition Ethereum from "Proof of Work" to "Proof of Stake", drastically reducing carbon footprint. _See [Ethereum](#e)_. 
 
-- **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **ES6 (ECMASCRIPT6)**: also known as ES2015, the version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier. _See [ECMA](#e)_. 
 
 - **event**: an action or occurrence detected by a program.
 
