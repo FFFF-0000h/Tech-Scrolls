@@ -235,6 +235,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## D
 
+- **DAO**: (In blockchain) "Decentralized Autonomous Organizations". Organisations which are governed by transparant rules that are encoded by smart contracts. These rules are visible to all.
+
 - **DApps**: (Blockchain) "DApps" decentralized applications. Any app that is connected to the blockchain instead of a central web server. 
 
 - **database**: a central location in which data is stored and managed.
