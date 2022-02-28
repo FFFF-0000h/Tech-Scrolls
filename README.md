@@ -287,6 +287,12 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system, and can be accessed inside the program.
 
+- **ERC20**: ERC20 coins are fungible tokens (e.g. Bitcoin). 
+
+- **ERC721**: ERC721 coins are non-fungible tokens (e.g. NFTs)
+
+- **ERC 1155**: a hybrid between ERC20 and ERC721. They are tokens that support fungible and non-fungible coins alike. _See also [fungible](#f), [non-fungible](#n)_. 
+
 - **ERP (Enterprise Resource Planning)**: Refers to software and systems used to plan and manage all the core supply chain, manufacturing, services, financial and other processes of an organization.
  
 
@@ -590,7 +596,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **setter**: a method that sets the value of a property.
 
-- **sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
+- **sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term
+
+- **smart contracts**: (In blockchain) Smart contracts are the programs that are deployed to the blockchain. They're often written in solidity (.sol extension) 
 
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 
