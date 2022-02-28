@@ -235,6 +235,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## D
 
+- **DApps**: (Blockchain) "DApps" decentralized applications. Any app that is connected to the blockchain instead of a central web server. 
+
 - **database**: a central location in which data is stored and managed.
 
 - **Data-driven Programming**: a programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
@@ -454,11 +456,14 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **neuron**: a node in a neural network, typically taking in multiple input values and generating one output value. The neuron calculates the output value by applying an activation function (nonlinear transformation) to a weighted sum of input values.
 
+- **NFT(pl. NFTS)**: (Blockchain) "NFTs" are non-fungible tokens. Each token has a unique cryptographic signature. That means that, like kids, they are not interchangeable.
+
+
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 
 - **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
 
-- **node.js**: NNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+- **node.js**: an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 
 - **noise**: anything that obscures the signal in a dataset.
 
