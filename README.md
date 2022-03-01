@@ -105,9 +105,9 @@ _⚔️NOTE⚔️: UNLESS STATED, ALL `codes` are written in JavaScript_
 ## Books
 1. ### Beginner
 * Javascript
-	* [YDKJS(Up and going)](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) - [Kyle Simpson](https://github.com/getify)
-	* [JavaScript: The Good Parts](https://github.com/hypnguyen1209/JS-ebook/blob/master/JavaScriptTheGoodParts.pdf) - [Douglas Crockford](https://github.com/douglascrockford)
-	* [Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/4%20-%20Miscellaneous/Learning%20Web%20Design%20-%20A%20Beginner's%20Guide%20to%20HTML%2C%20CSS%2C%20JavaScript%2C%20and%20Web%20Graphics%20-%20Jennifer%20Niederst%20Robbins%20-%204th%20Edition%20-%20August%202012.pdf) - [Jennifer Nierdest Robbins](https://en.wikipedia.org/wiki/Jennifer_Niederst_Robbins)
+	* [YDKJS(Up and going)](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) => [Kyle Simpson](https://github.com/getify)
+	* [JavaScript: The Good Parts](https://github.com/hypnguyen1209/JS-ebook/blob/master/JavaScriptTheGoodParts.pdf) => [Douglas Crockford](https://github.com/douglascrockford)
+	* [Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/4%20-%20Miscellaneous/Learning%20Web%20Design%20-%20A%20Beginner's%20Guide%20to%20HTML%2C%20CSS%2C%20JavaScript%2C%20and%20Web%20Graphics%20-%20Jennifer%20Niederst%20Robbins%20-%204th%20Edition%20-%20August%202012.pdf) => [Jennifer Nierdest Robbins](https://en.wikipedia.org/wiki/Jennifer_Niederst_Robbins)
 
 
 
