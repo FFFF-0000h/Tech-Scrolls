@@ -161,7 +161,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **blockchain**: The blockchain is a digital distributed ledger. It contains a record of every transaction ever run on it. Anyone can write to it. 
 
-
+- **blue team (pl. blue teams): (In cybersecurity) blue teams are the defense (defending systems). _See [red team](#r), [purple team](#p)_. 
 
 - **boilerplate**: boilerplate is a collection of code snippets and assets that can be reused to boost development. 
 
@@ -176,6 +176,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 - **browser**: the program you use to access the Web. E.g Google's Chrome, Mozilla's Firefox, Apple's Safari, Microsoft's Edge.
 
 - **bug**: an error in the source code that causes a program to produce unexpected results.
+
+- **bug bounty**: the process of searching a company’s system for vulnerabilities to everyone on the bug bounty platform. _See [bug](#b)_. 
 
 - **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
 
@@ -283,7 +285,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 
-- **encryption**: the process of converting information or data into a code, especially to prevent unauthorized access.
+- **encoding**: a way of converting data from one format to another (for example from text to ASCII). It's not inherently a security function. _See [decoding](#d)_. 
+
+- **encryption**: the process of converting information or data into a code, especially to prevent unauthorized access. It is a way of hiding a message with the intent of only allowing the intended recipient to understand the meaning of the message. _See [decryption](#d)_. 
 
 - **engagement**: the term used for likes, shares, comments, and other interactions with a person's social media presence. _See [impression](#i)_. 
 
@@ -355,7 +359,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **HTTP (Hypertext Transfer Protocol)**: an application-layer protocol for transmitting hypermedia documents, such as HTML.
 
-- **HTTP request methods**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc.
+- **HTTP request methods**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc. _See also [GET](#g), [POST](#p), [PUT](#p)_. 
+
+- **HTTPS (Hypertext Transfer Protocol Secure)**: HTTP encrypted with SSL or TLS (typically TLS, since it has largely replaced SSL). _See also [HTTP](#h), [TLS](#t), [SSL](#s)_.
 
 ## I
 
@@ -512,6 +518,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **pattern recognition**: one of the four cornerstones of Computer Science. It involves finding the similarities or patterns among small, decomposed problems that can help us solve more complex problems more efficiently. _See [abstraction](#a), [algorithm](#a), [decomposition](#d)_.
 
+- **penetration test (usually pen test)**: when a company hires a tester or firm (with non-disclosure agreements, or NDAs) to simulate an attacker. They will operate within a pre-defined scope during a limited time period, write up a report on their findings, and include recommended remediation steps.
+
 - **performance testing**: Performance testing is the process of determining the speed, responsiveness and stability of a computer, network, software program or device under a workload. Performance testing can involve quantitative tests done in a lab, or occur in the production environment in limited scenarios.
 
 - **PHP**: PHP stands for Hypertext Preprocessor, a server-side scripting language. Among other things, PHP can be used to generate dynamic page content, to send and receive cookies, to control user access and to encrypt data. it’s compatible with almost all servers used today, it’s fairly easy to learn, supports a wide range of databases, and it’s free to download.
@@ -544,7 +552,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **pseudocode**: detailed description of steps in a computer program or algorithm, intended for human reading rather than machine reading. It often uses structural conventions of programming languages.
 
-- **Python**: Python is an interpreted, high-level and general-purpose programming language.
+- **purple team (pl. purple teams): a team which integrates the red and blue team in a way which facilitates them learning from each other and improves the security of the overall organization. _See [red team](#r), [blue team](#b)_. 
+
+- **Python**: an interpreted, high-level and general-purpose programming language.
 
 ## Q
 
@@ -562,7 +572,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 
-- **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **recursion**: a process in which a function calls itself as a subroutine. 
+
+- **red team (pl. red teams)**: (In cybersecurity) red teams are the offense (breaking into systems). _See [blue team](#b), [purple team](#p)_. 
 
 - **regression testing**: Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
 
@@ -580,6 +592,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
+- **risk**: the chance of a negative event (how likely is the bad thing to happen) and the impact of that event (how bad is the bad thing). A risk is commonly calculated by multiplying the likelihood x the impact. _See also [threat](#t)_. 
+
 - **ruby**: Ruby is an interpreted, high-level, general-purpose programming language. Ruby is dynamically typed and uses garbage collection and just-in-time compilation.
 
 - **ruby on rails**: Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
@@ -587,6 +601,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## S
 
 - **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
+
+- **salting**: (In cybersecurity) the process of adding random values to the end of data, like a password, and then hashing the value. This protects against brute force attacks (when an [attacker](#a) tries every possible combination of letters and numbers until the password is found) as it makes it harder for an attacker to guess.
 
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 
@@ -624,7 +640,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
 
-- **SSL**: SSL stands for Secure Sockets Layer. It’s a standard security protocol for ensuring that all data transmitted between the web server and the browser remains encrypted—and therefore unreadable to the naked eye. You can tell if a website has an SSL certificate by looking at the web address: if the URL starts with “https”, the website is secure. You’ll also see a padlock symbol in the browser bar.
+- **SSL (Secure Sockets Layer)**: the predecessor to TLS, and is largely depreciated. It is a standard security protocol for ensuring that all data transmitted between the web server and the browser remains encrypted and therefore unreadable to the naked eye. You can tell if a website has an SSL certificate by looking at the web address: if the URL starts with “https”, the website is secure. You’ll also see a padlock symbol in the browser bar. _See also [TSL](#t), [HTTPS](#h), [URL](#u)_. 
 
 - **stack**: In computer science, a stack is an abstract data type (ADT) that serves as a collection of elements, with two main principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. Stack is commonly used in most programming languages. It is named stack as it behaves like a real-world stack, for example – a deck of cards or a pile of plates, etc. A real-world stack allows operations at one end only. For example, we can place or remove a card or plate from the top of the stack only. Likewise, Stack ADT allows all data operations at one end only. At any given time, we can only access the top element of a stack. This feature makes it LIFO data structure. LIFO stands for Last-in-first-out. Here, the element which is placed (inserted or added) last, is accessed first.
 
@@ -648,7 +664,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## T
 
-- **TCP (Transmission Control Protocol)**: a communication protocol used most often on networks that use Internet Protocol (IP)
+- **TCP (Transmission Control Protocol)**: a communication protocol used most often on networks that use Internet Protocol (IP). TCP is used for zone transfer and information larger than 512 bytes. Also, if a client doesn't get a response, it will retransmit the data using TCP. _See [IP](#i)_. 
 
 - **template**: a preformatted file that serve as the starting point for another file.
 
@@ -662,7 +678,15 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **thread**: a way for a program to divide itself into two or more simultaneously running tasks.
 
-- **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work
+- **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work. 
+
+- **threat**: (In cybersecurity) a negative event which leads to an unwanted result. This includes an employee who clicks on a phishing link, a developer who misconfigures a database instance, or an earthquake which destroys your data center. _See [threat actor](#)_. 
+
+- **threat actor**: the person, group, or entity which is responsible for the event of a threat. _See [threat](#)_. 
+
+- **threat modeling**: a process for identifying threats to a particular target, understanding them, and prioritizing them. This process is designed to answer the questions, 'what type of actor is likely to target me?' 'where am I most vulnerable?' 'what are my high value assets?'. _See [threat](#), [threat actor](#)_. 
+
+- **TLS (Transport Layer Security)**: a cryptographic protocol which helps secure communications over a network. _See also [SSL](#s), [HTTPS](#h), [HTTP](#h), [URL](#u)_. 
 
 - **token**: a single element of a programming language. _Eg keyword, operator_
 
@@ -673,6 +697,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## U
 
 - **UAT (User Acceptance Testing)**: User Acceptance Testing (UAT) is one of the last stages of the software development life cycle. It is performed after the software has been thoroughly tested. It is sometimes known as End User Testing. UAT is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
+
+- **UDP**: is used for name and regular or reverse queries, as well as any information smaller than 512 bytes.
 
 - **UGC(User Generated Content)**: the social media content (posts, photos, videos) created by users about a brand or product and not by companies or organizations themselves. When a local restaurant retweets a Twitter user’s positive shout out, or Coca-Cola reposts a picture of an Instagram user drinking a Coke, that’s UGC.
 
