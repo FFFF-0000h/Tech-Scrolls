@@ -227,6 +227,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **CRM (Customer Relationship Management)**: In website development, this refers to the software and applications used to gather, analyze, and maintain information on customers, donors, and prospects.
 
+- **crowdsourcing**: To obtain (information or input into a particular task or project) by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet.
+
 - **CSS (Cascading Style Sheets)**: CSS is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, backgrounds, and other visual elements.
 
 - **CSV**: plain-text files used to better organize large amounts of data via comma-separated values.
