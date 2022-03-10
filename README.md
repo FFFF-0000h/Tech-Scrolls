@@ -205,7 +205,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **cohesion**: a measure of how well the lines of source code within a module work together.
 
-- **comments**: a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. In Javascript comments are written using `/` for in-line comments and `/* */` for multi-line comments. 
+- **comments**: a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters. For example, in Javascript, comments are written using `//` for in-line comments and `/* */` for multi-line comments. 
 
 - **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 
