@@ -690,7 +690,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **threat modeling**: a process for identifying threats to a particular target, understanding them, and prioritizing them. This process is designed to answer the questions, 'what type of actor is likely to target me?' 'where am I most vulnerable?' 'what are my high value assets?'. _See [threat](#), [threat actor](#)_. 
 
-- **TLS (Transport Layer Security)**: a cryptographic protocol which helps secure communications over a network. _See also [SSL](#s), [HTTPS](#h), [HTTP](#h), [URL](#u)_. 
+- **TLS (Transport Layer Security)**: Transport Layer Security (TLS), formely known as Secure Sockets Layer (SSL), is the cryptohraphic protocol used to encrypt communications over a network.. It is the newer and more secure version of SSL. TLS provides security against attacks, and its three main goals are authentication, privacy, and overall security. _See also [SSL](#s), [HTTPS](#h), [HTTP](#h), [URL](#u)_. 
 
 - **token**: a single element of a programming language. _Eg keyword, operator_
 
