@@ -594,6 +594,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
+- **Request Response Cycle**: 
+
 - **risk**: the chance of a negative event (how likely is the bad thing to happen) and the impact of that event (how bad is the bad thing). A risk is commonly calculated by multiplying the likelihood x the impact. _See also [threat](#t)_. 
 
 - **ruby**: Ruby is an interpreted, high-level, general-purpose programming language. Ruby is dynamically typed and uses garbage collection and just-in-time compilation.
