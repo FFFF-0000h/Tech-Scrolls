@@ -363,7 +363,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **HTTP request methods**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc. _See also [GET](#g), [POST](#p), [PUT](#p)_. 
 
-- **HTTPS (Hypertext Transfer Protocol Secure)**: HTTP encrypted with SSL or TLS (typically TLS, since it has largely replaced SSL). _See [HTTP](#h), also [TLS](#t), [SSL](#s), [protocol](#p), [IP](#i), [TCP](#t)_.
+- **HTTPS (Hypertext Transfer Protocol Secure)**: the secure, advanced, and confidential version of HTTP. It's the safest way to transfer data between a browser and a server. HTTP encrypted with SSL or TLS (typically TLS, since it has largely replaced SSL). A HTTPS URL starts with https:// and uses a port number 443 by default. _See [HTTP](#h), also [TLS](#t), [SSL](#s), [protocol](#p), [IP](#i), [TCP](#t)_.
 
 ## I
 
