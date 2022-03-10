@@ -359,11 +359,11 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **HTML (Hyper Text Markup Language)**: standard markup language used to create Web pages.
 
-- **HTTP (Hypertext Transfer Protocol)**: an application-layer protocol for transmitting hypermedia documents, such as HTML.
+- **HTTP (Hypertext Transfer Protocol)**: an application layer protocol and the primary protocol used for communication and data transfer between a web client and a web server. HTTP is a set of rules and standards for how hypertext files and all kinds of information are transfered over the web. It's how browsers and servers communicate.. It is the foundation of the World Wide Web(www). Without it the Web wouldn't be what it is today. An HTTP URL starts with http:// and has a number 80 port by default. The HyperText part in the name means that there are documents or files involved. Those can contain text, images, graphics, videos or any other media. In addition, they likely contain links to other documents or files for cross referencing, which you can easily access after clicking the link with a mouse or touchpad or after touching it on your phone screen. The Transfer part in the name means the files can move over the World Wide Web from one networked device to another. The Protocol part means that it consists of a set of computer rules that govern how devices are able to use the Internet. It also tells them how they can use the Internet as a communication medium when connected with many other devices at a distance. _See [HTTPS](#h), also [protocol](#p), [IP](#i), [TCP](#t), [SSL](#s), [TLS](#t)_.
 
 - **HTTP request methods**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc. _See also [GET](#g), [POST](#p), [PUT](#p)_. 
 
-- **HTTPS (Hypertext Transfer Protocol Secure)**: HTTP encrypted with SSL or TLS (typically TLS, since it has largely replaced SSL). _See also [HTTP](#h), [TLS](#t), [SSL](#s)_.
+- **HTTPS (Hypertext Transfer Protocol Secure)**: HTTP encrypted with SSL or TLS (typically TLS, since it has largely replaced SSL). _See [HTTP](#h), also [TLS](#t), [SSL](#s), [protocol](#p), [IP](#i), [TCP](#t)_.
 
 ## I
 
