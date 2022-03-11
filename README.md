@@ -7,10 +7,10 @@ _⚔️NOTE⚔️: UNLESS STATED, ALL `codes` are written in JavaScript_
 
 
 <ul>
-<li>Concepts</li> <!-- Concepts about programming(objects, arrays, functions, recursions, scopes, e.t.c) , tech generally, product management, UI/UX, data science, blockchain development, machine learning. concepts really. e.t.c. Note: Create a section accordingly using appropriate headers where necessary and paragraph tags and list tags where necessary. Explanations(with provision of code where necessary) should be detailed(include comments where necessary) enough if you atttempt to do so. -->
+<li><a href="#concept">Concepts</a></li> <!-- Concepts about programming(objects, arrays, functions, recursions, scopes, e.t.c) , tech generally, product management, UI/UX, data science, blockchain development, machine learning. concepts really. e.t.c. Note: Create a section accordingly using appropriate headers where necessary and paragraph tags and list tags where necessary. Explanations(with provision of code where necessary) should be detailed(include comments where necessary) enough if you atttempt to do so. -->
 <li>People</li> <!-- People in tech, me to you to the next tech person you know making a mark in the tech world. Together with information(about and field) pointing(links, socials) to this person's work(s)(programs created, projects done e.t.c) -->
-<li><a href = "#books">Books</a></li> <!-- Books should be split into sections, by language(JavaScript, PHP, Java ẹ.t.c) and by difficulty(Beginner, Intermediate, Expert). -->
-<li>Github</li> <!-- Everything informative about github goes here, from definitions to tutorials to great tech repos properly sectioned. Note: Any definition given under the Github section should be added to the main dictionary section also in an alphabetical manner. Ẹ.g git-repo will be under repo(r) since git is just a prefix and there could be several definitions of repo in the dictionary stating precisely what it is about(in git/github). -->
+<li><a href="#books">Books</a></li> <!-- Books should be split into sections, by language(JavaScript, PHP, Java ẹ.t.c) and by difficulty(Beginner, Intermediate, Expert). -->
+<li>Github</li> <!-- Everything informative about github goes here, from definitions to tutorials to great tech repos properly sectioned. Note: Any definition given under the Github section should be added to the main dictionary section also in an alphabetical manner. E.g, "git-repo" will be under repo(r) since git is just a prefix and also there could be several definitions of repo in the dictionary stating precisely what it is about(in git/github or otherwise). -->
 <li>LinkedIn</li>
 <li>Twitter</li>
 <li>Cybersecurity</li>
@@ -100,6 +100,8 @@ _⚔️NOTE⚔️: UNLESS STATED, ALL `codes` are written in JavaScript_
  [Z](#Z)
 
 <hr>
+
+## Concepts 
 
 
 ## Books
