@@ -359,6 +359,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## H
 
+- **HEAD**: an HTTP request method (also called an HTTP verb) which requests a response identical to a GET request, but without the response body. _See also [GET](#g)_
+
 - **high-order function**: a function that takes a function as an argument and returns a function.
 
 - **HTML (Hyper Text Markup Language)**: standard markup language used to create Web pages.
