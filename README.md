@@ -349,11 +349,13 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **getter**: a method that gets the value of a property.
 
-- **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
-
 - **Git** : a version control system that automatically updates our file/or project when we commit it.
 
 - **GitHub** : GitHub is a cloud interface for Git. GitHub offers all the version control functionality of Git, but also offers its own features, such as bug tracking, task management and project wikis.
+
+- **GET**: an HTTP request method (also called an HTTP verb) which requests a representation of the specified resource. Requests using GET should only retrieve data. _See also [POST](#p)_
+
+- **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
 
 ## H
 
