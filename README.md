@@ -542,6 +542,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function, or object to take on multiple forms.
 
+- **POST**: an HTTP method which submits an entity to the specified resource, often causing a change in state or side effects on the server. _See [GET](#g)_
+
 - **procedural programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 
 - **Process Control Block**: aka PCB, a data structure used by computer operating systems to store all the information about a process.
