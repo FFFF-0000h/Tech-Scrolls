@@ -359,7 +359,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## H
 
-- **HEAD**: an HTTP request method (also called an HTTP verb) which requests a response identical to a GET request, but without the response body. _See also [GET](#g)_
+- **HEAD**: an HTTP request method (also called an HTTP verb) which requests a response identical to a GET request, but without the response body. _See also [GET](#g), [POST](#p)_
 
 - **high-order function**: a function that takes a function as an argument and returns a function.
 
@@ -542,7 +542,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function, or object to take on multiple forms.
 
-- **POST**: an HTTP method which submits an entity to the specified resource, often causing a change in state or side effects on the server. _See [GET](#g)_
+- **POST**: an HTTP method which submits an entity to the specified resource, often causing a change in state or side effects on the server. _See [GET](#g), [HEAD](#h)_
 
 - **procedural programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 
