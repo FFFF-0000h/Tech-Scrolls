@@ -267,7 +267,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and arrays.
 
-- **DevOps (Development Operations)**: System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
+- **DevOps (Development Operations)**: a software development process that focuses on helping development, I.T operations, and quality assurance teams understand each other and collaborate better. By unifying these three separate departments, Devops teams aim for shorter development cycles and more dependable software releases.
 
 - **DHCP (Dynamic Host Configuration Protocol)**: A protocol that provides new devices on a network the information they need to communicate with other devices.
 
@@ -401,7 +401,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **Java**: Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
 
-- **Java EE**: Java EE stands for Java Enterprise Edition, which was earlier known as J2EE and is currently known as Jakarta EE. It is a set of specifications wrapping around Java SE (Standard Edition). The Java EE provides a platform for developers with enterprise features such as distributed computing and web services. Java EE applications are usually run on reference run times such as microservers or application servers. Examples of some contexts where Java EE is used are e-commerce, accounting, banking information systems.
+- **Java EE**: (Java Enterprise Edition), earlier known as J2EE and is currently known as Jakarta EE. It is a set of specifications wrapping around Java SE (Standard Edition). The Java EE provides a platform for developers with enterprise features such as distributed computing and web services. Java EE applications are usually run on reference run times such as microservers or application servers. Examples of some contexts where Java EE is used are e-commerce, accounting, banking information systems.
 
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 
@@ -416,6 +416,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## K
 
 - **kernel**: a computer program within the operating system with complete control over everything in the system.
+
+- **kerning**: the space between characters (letters, numbers, punctuation) and the process of adjusting that space to avoid unsightly gaps and improve the legibility of text.
 
 - **keyword**: a keyword is a word that is reserved by a program because the word has a special meaning.
 
@@ -465,7 +467,9 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 
-- **NAT (Network Address Translation)**: a method of remapping an IP address space into another
+- **NAT (Network Address Translation)**: a method of remapping an IP address space into another. 
+
+- **native app**: Native apps are made specifically for certain platforms. They only run on the platforms they were built for, and are stored locally on those devices. Mail for iOS and Ingress for Android are both examples of native apps.
 
 - **natural language understanding**: determining a user's intentions based on what the user typed or said. For example, a search engine uses natural language understanding to determine what the user is searching for based on what the user typed or said.
 
@@ -492,7 +496,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **object**: a type that refers to a compound value where you can set properties (named locations) that each hold their own values of any type. _See [dot notation](#d) and [bracket notation](#b)_.
 
-- **Object-Oriented Programming (OOP)**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
+- **Object-Oriented Programming (OOP)**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic. Object-oriented programming is a type of computer programming/software design that focuses on the creation of objects that have specific and unique attributes and abilities. In OOP, computer programs are made up of these created objects that then interact with one another. This is in contrast to earlier programming languages that focus more on the process of turning input data into output data rather than the data (objects) itself. Examples of OOP languages include Ruby, PHP, and Python.
 
 - **objective**: a metric that your algorithm is trying to optimize.
 
@@ -622,6 +626,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **scope**: a collection of variables(usually in a function) as well as the rules for how those variables are accessed by name. Only code inside that function can access that function’s  scoped  variables.
 
+- **SDK(Software Development Kit)**: is a set of tools for creating specific types of software. SDK’s are released by companies that control the platform the software is being developed for. For instance, apps developed for iOS require the iOS SDK, Windows apps require the .NET Framework SDK, and Java apps require the Java Development Kit.
+
 - **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
 
 - **Semantic markup**: is an approach to coding [HTML](#h) where the markup tags used to describe content also provide relevant metadata about the content itself. For example, a piece of information that's relevant to the main content of a page, but not directly the subject of the page, might be marked up as being an `<aside>`.
@@ -734,7 +740,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **variable**: is used to store information to be referenced and manipulated in a computer program. Its purpose is to label and store data in memory so that the user may use it throughout the program if needed.
 
-- **Version Control System (VCS)**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **Version Control System (VCS)**: a tool used to keep track of changes to code and files on a website or app and allows the user to go back and restore earlier versions in case of bugs. Version control tools like Git are often built in to source code editors (programs used to write and edit code) like Visual Code Studio, or offered as part of a web hosting service.
 
 - **Visual Basic (VB)**: The original Visual Basic is a third-generation event-driven programming language from Microsoft known for its Component Object Model programming model first released in 1991 and declared legacy during 2008. Microsoft intended Visual Basic to be relatively easy to learn and use.
 
@@ -743,6 +749,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 ## W
 
 - **wallet(pl. wallets)**: (In blockchain) Wallets (crypto-wallets) are essentially applications that manage your private and public keys. These keys are used to send and receive crypto-currency and NFTs. _See also [crypto-currency](#c), [NFT](#n)_.
+
+- **web apps**: are websites that look and feel like an app (as opposed to a series of linked pages). Facebook, Pandora, and Google Docs are all examples of web apps.
 
 - **web browser**: A web browser, or simply 'browser', is an application used to access and view websites. Common web browsers include Microsoft Edge, Internet Explorer, Google Chrome, Mozilla Firefox, and Apple Safari.
 
