@@ -393,6 +393,8 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **information architecture**: Information architecture is the practice of organizing complex information in a clear and logical way. In terms of websites and apps, this means creating a user-friendly structure that makes it easy for the user to find their way around.
 
+- **intellectual property**: something of value (an asset) that is created from an original idea. This includes creations of the mind such as software code, inventions; and symbols, names, images, and designs. Under intellectual property law, the holder of one of these abstract “properties” has certain exclusive rights to the creative work, commercial symbol, or invention by which it is covered.
+
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
 
 - **IP**: Internet Protocol, the protocol by which data is sent from one computer to another on the Internet.
