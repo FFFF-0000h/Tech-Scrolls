@@ -420,7 +420,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **kernel**: a computer program within the operating system with complete control over everything in the system.
 
-- **kerning**: the space between characters (letters, numbers, punctuation) and the process of adjusting that space to avoid unsightly gaps and improve the legibility of text.
+- **kerning**: the spacing between (two) characters (letters, numbers, punctuation) and the process of adjusting that space to avoid unsightly gaps and improve the legibility of text.
 
 - **keyword**: a keyword is a word that is reserved by a program because the word has a special meaning.
 
