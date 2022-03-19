@@ -138,7 +138,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **Application Security**: application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
 
-- **ARIA (Accessible Rich Internet Application)**: it refers to the idea that web apps are used by a range of people, with differing needs for assistive technology and layout. _See also [Accessibility](#a)_
+- **ARIA (Accessible Rich Internet Application)**: a set of attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities. It supplements HTML so that interactions and widgets commonly used in applications can be passed to assistive technologies when there is not otherwise a mechanism. For example, ARIA enables accessible JavaScript widgets, form hints and error messages, live content updates, and more. It refers to the idea that web apps are used by a range of people, with differing needs for assistive technology and layout. _See also [Accessibility](#a)_
 
 - **argument**: a value that is passed to a function (as input) when it is called.
 
