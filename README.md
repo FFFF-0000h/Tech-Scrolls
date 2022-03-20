@@ -783,5 +783,4 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 ## Z
 
-- hh
-
+- **zero day**: "Zero-day” or “0Day” an exploit which is a malicious computer attack that takes advantage of a security hole before the vulnerability is known. This means the security issue is made known the same day as the computer attack is released. In other words, the software developer has zero days to prepare for the security breach and must work as quickly as possible to develop a patch or update that fixes the problem. Zero day exploits may involve viruses, trojan horses, worms or other malicious code that can be run within a software program. 
