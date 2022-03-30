@@ -164,7 +164,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **blockchain**: The blockchain is a digital distributed ledger. It contains a record of every transaction ever run on it. Anyone can write to it. 
 
-- **blue team (pl. blue teams): (In cybersecurity) blue teams are the defense (defending systems). _See [red team](#r), [purple team](#p)_. 
+- **blue team (pl. blue teams)**: (In cybersecurity) blue team is the company's own cybersecurity personnel(s), typically within a Security Operations Centre (SOC). The SOC consists of highly trained analysts who work on defending and improving their organisation's defences around the clock. The blue team is expected to detect, oppose and weaken the red team by defense (defending systems). _See [red team](#r), [purple team](#p)_. 
 
 - **boilerplate**: boilerplate is a collection of code snippets and assets that can be reused to boost development. 
 
