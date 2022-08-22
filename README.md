@@ -258,13 +258,15 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 
-- **decomposition**: one of the four cornerstones of Computer Science. It involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand. The smaller parts can then be examined and solved, or designed individually, as they are simpler to work with. _See also [abstraction](#a), [algorithm](#a), [pattern recognition](#p).
+- **decomposition**: one of the four cornerstones of Computer Science. It involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand. The smaller parts can then be examined and solved, or designed individually, as they are simpler to work with. _See also [abstraction](#a), [algorithm](#a), [pattern recognition](#p)_
 
 - **deep learning**: a broader family of machine learning methods based on artificial neural networks with representation learning. Deep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.
 
 - **deployment**: Deployment is a key step in the web development process. Once a website or an app has been developed and tested, it’s ready to go live; in other words, it’s ready to be deployed. There are several different stages to deploying a website, with the last being hosting it.
 
 - **design patterns**: In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code.
+
+- **design thinking**: it is an approach to solving a problem which involves creative thinking, procedures (journaling, research and data gathering, experimentation) in ensuring the solution is User-Centric, i.e it meets the needs of the user(s). The initial solution is known as the [minimum viable product](#m).
 
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and arrays.
 
@@ -448,7 +450,7 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 
-- **mention(pl. mentions)**: a way of referring to a person or account on social media platforms (@yourTwitterhandle on Twitter or +YourName on Google+). Mentions are another metric companies can use to measure their social media footprint.
+- **mention(pl. mentions)**: a way of referring to a person or account on social media platforms (@yourLinkedInHandle, @yourDevHandle, @yourTwitterHandle, @yourFbHandle). Mentions are ways companies can use to measure their social media footprint.
 
 - **Merge Sort**: a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. 
 
@@ -462,9 +464,14 @@ You might also think of accessibility as treating everyone the same, and giving 
 
 - **middleware**: software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 
-- **MIME(Multipurpose Internet Mail Extensions)**: an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
+- **MIME (Multipurpose Internet Mail Extensions)**: an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 
 - **mutable object**: an object which can change after creation.
+
+- **MVP (Minimum Viable Product)**: The Minimum Viable Product is the initial product version delivered with just enough features to satisfy early adopters and elicit feedback for future development. The Minimum Viable Product should satisfy the following conditions:  
+	* Has sufficient value to attract early adopters
+	* Demonstrates enough value to retain these users
+	* Establishes a feedback loop to guide future development
 
 ## N
 
