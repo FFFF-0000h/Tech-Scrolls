@@ -135,6 +135,55 @@ You might also think of accessibility as treating everyone the same, and giving 
 - **application (software)**: a program or group of programs designed for end users.
 
 - **API (application programming interface)**: what helps different components of software work together so that they all seem to operate as a single software. Such interfaces are very common and help coordinate numerous "moving parts" to make a program or app easy to use.
+Examples include:
+
+Social Media APIs:
+
+1, Facebook Graph API: Allows developers to access and integrate Facebook's social graph data into their applications, such as user profiles, posts, and photos.
+
+2, Twitter API: Provides access to Twitter's functionalities, including retrieving tweets, posting tweets, and managing user accounts.
+
+
+Payment Gateway APIs:
+
+1, PayPal API: Enables developers to integrate PayPal's payment processing capabilities into e-commerce websites or applications, facilitating online transactions securely.
+
+2, Stripe API: Provides tools for developers to accept payments online, manage subscriptions, and handle financial transactions programmatically.
+
+
+Mapping and Location APIs:
+
+1, Google Maps API: Allows developers to embed Google Maps into their websites or applications, enabling features like location-based services, route planning, and geocoding.
+
+2, OpenStreetMap API: Provides open-source mapping data and tools for developers to create custom mapping applications or integrate maps into their projects.
+
+
+Cloud Service APIs:
+
+1, Amazon Web Services (AWS) API: Offers a wide range of APIs for cloud computing services, including storage (S3), computing (EC2), database (RDS), and more.
+
+2, Microsoft Azure API: Provides APIs for Azure cloud services, such as virtual machines, databases, AI services, and IoT (Internet of Things) devices.
+
+
+Messaging and Communication APIs:
+
+1, Twilio API: Allows developers to integrate voice calling, SMS messaging, and video conferencing functionalities into their applications using cloud communication infrastructure.
+
+2, WhatsApp Business API: Provides businesses with tools to communicate with customers via WhatsApp, including sending notifications, responding to messages, and managing contacts.
+
+
+E-commerce APIs:
+
+1, Shopify API: Enables developers to build Shopify apps, customize online stores, manage product catalogs, process orders, and handle customer data.
+
+2, Etsy API: Provides access to Etsy's marketplace data, allowing developers to create applications for managing listings, sales, and interactions with Etsy sellers.
+
+
+Weather APIs:
+
+1, OpenWeatherMap API: Offers weather data and forecasts for global locations, allowing developers to integrate weather information into their applications or websites.
+
+2, Weatherstack API: Provides real-time weather data, historical weather information, and forecasts, suitable for integrating weather updates into applications.
 
 - **Application Security**: application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
 
