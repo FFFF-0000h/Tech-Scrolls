@@ -1,6 +1,6 @@
 _⚔️NOTE⚔️: UNLESS STATED, ALL `codes` are written in JavaScript_
 
-"`If you desire to make any amendments to the contents of the scrolls📜✍🏾.` <br/> `You must read carefully the`📃[ElderScrolls](#e)📃.<br/> `The scrolls may be found within the deep of the 🗻Githubian Arctic🏔️.` <br/> `A task not too hectic.`" - 🧙🏾‍♂️
+"`If you desire to make any amendments to the contents of the scrolls📜✍🏾.` <br/> `You must read carefully the`📃[ElderScrolls](https://github.com/FFFF-0000h/Tech-Scrolls/blob/main/Elder-Scrolls.txt)📃.<br/> `The scrolls may be found within the deep of the 🗻Githubian Arctic🏔️.` <br/> `A task not too hectic.`" - 🧙🏾‍♂️
 
 
 <h2 align = "center">📜📜<br/>Table of Contents<br/>📜📜</h2>
