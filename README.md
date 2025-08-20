@@ -241,6 +241,8 @@ Weather APIs:
 
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 
+- **cascade**: the conflict resolution system user-agents (browsers) use in styling a web-page.
+
 - **CDN (Content Delivery Network)**: a content delivery network (CDN) is a geographically distributed network of servers whose goal is to provide high availability and performance of the service served, to users.
 
 - **class**: a defined structure to create an object in an object-oriented programming language.
